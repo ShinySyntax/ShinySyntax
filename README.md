@@ -46,7 +46,6 @@ Main Skills:
 [![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
 
  <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ## My Skill Set  
@@ -119,3 +118,8 @@ Main Skills:
 </div>
 
 </td></tr></table>  
+<div>
+  If you are interested for me, ping me.
+  my mail address:kindlyman343423@gmail.com
+  my skype address: live:.cid.baf0a296313e90c3
+</div>
