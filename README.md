@@ -6,7 +6,8 @@
 <hr>
 
 Thank you for your visiting my profile,
-If you need me, Anytime Ping Me!
+If you need me, Anytime Ping Me!<br>
+mail kindlyman343423@gmail.com  skype live:.cid.baf0a296313e90c3
 
 
 
@@ -118,8 +119,4 @@ Main Skills:
 </div>
 
 </td></tr></table>  
-<div align="center">
-  If you are interested for me, ping me.<br>
-  my mail address : kindlyman343423@gmail.com<br>
-  my skype address : live:.cid.baf0a296313e90c3
-</div>
+
