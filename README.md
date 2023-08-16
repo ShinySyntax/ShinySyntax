@@ -8,4 +8,4 @@
 Thank you for your visiting my profile,
 If you need me, Anytime Ping Me!
 
-
+https://img.shields.io/badge/LinkedIn-blue
