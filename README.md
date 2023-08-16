@@ -11,9 +11,10 @@ If you need me, Anytime Ping Me!
 
 
 
-## Hi 👋,AI Expert, Senior Web & Mobile Developer!
+## full stack Senior Engineer, Blockchain Engineer, AI Engineer!
 
 Main Skills:
+-Blockchain, Solidity, Smart Contract
 - AI Bot, Open AI, Machine Learning, Embedding and Finetuning
 - ReactJS, Svelte, Angular, VueJS, NextJS, NuxtJS
 - NodeJS( Express/NestJS ), PHP, Django, Ruby on Rails, ASP.NET
@@ -23,7 +24,57 @@ Main Skills:
 - Tailwind CSS, Vuetify, SCSS
 - Stripe, AWS, Rest API, Microsoft Azure, CI/CD, ǪA Testing, GraphǪL, Docker, Git, Jira, Vercel, Netlify
 
-I'm full time developer. Please contact me at kindlyman343423@gmail.com
+<div class="container">
+        		<div class="main_title">
+        			<h2 style="margin-top: 100px;">FOLLOWING ARE THE LINK TO MY SOCIAL MEDIA ACCOUNTS AND HANDLES.</h2>
+        			<p>Click each name to visit the account.</p>
+        		</div>
+        		<div class="feature_inner row">
+        			<div class="col-lg-4 col-md-6">
+        				<div class="feature_item">
+        					<i class="flaticon-city"></i>
+        					<img src="img/gallery/skype.png" style="height: 100px; width: 100px; margin-bottom: 20px;">
+        					<h4><a href="" target="_blank"> Skype</a></h4>
+        					<p>My Skype adress is live:.cid.baf0a296313e90c3. </p>
+        				</div>
+        			</div>
+        			<div class="col-lg-4 col-md-6">
+        				<div class="feature_item">
+        					<i class="flaticon-skyline"></i><img src="img/gallery/li.png" style="height: 100px; width: 100px; margin-bottom: 20px;">
+        					<h4> <a href="" target="_blank">LINKED-IN</a></h4>
+        					<p>My Linked-In profile with all my experiences and link to my resume.</p>
+        				</div>
+        			</div>
+        			<div class="col-lg-4 col-md-6">
+        				<div class="feature_item">
+        					<i class="flaticon-sketch"></i><img src="img/gallery/mail.png" style="height: 100px; width: 100px; margin-bottom: 20px;">
+        					<h4><a href="" target="_blank">Mail</a></h4>
+        					<p>My Mail address is kindlyman343423@gmail.com</p>
+        				</div>
+        			</div>
+        			<div class="col-lg-4 col-md-6">
+        				<div class="feature_item">
+        					<i class="flaticon-sketch"></i><img src="img/gallery/git.png" style="height: 100px; width: 100px; margin-bottom: 20px;">
+        					<h4><a href="https://github.com/kindlyman343423" target="_blank">GITHUB</a></h4>
+        					<p>An avid open-source contributor. Check my account to get full access to my open source projects.</p>
+        				</div>
+        			</div>
+        			<div class="col-lg-4 col-md-6">
+        				<div class="feature_item">
+        					<i class="flaticon-sketch"></i><img src="img/gallery/quora.png" style="height: 100px; width: 100px; margin-bottom: 20px;">
+        					<h4><a href="" target="_blank">QUORA</a></h4>
+        					<p>Checks Quora in my free time. Check my profile to view my answers and questions I follow.</p>
+        				</div>
+        			</div>
+        			<div class="col-lg-4 col-md-6">
+        				<div class="feature_item">
+        					<i class="flaticon-sketch"></i><img src="img/gallery/stack.png" style="height: 100px; width: 100px; margin-bottom: 20px;">
+        					<h4><a href="https://stackoverflow.com/users/22058735/kindlymam0128" target="_blank">STACKOVERFLOW</a></h4>
+        					<p>Who doesn't need StackOverFlow in their life? Check here to see my contributions to the site.</p>
+        				</div>
+        			</div>
+        		</div>
+        	</div>
 
 <a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUTkOMMxAzpXYUG-r4lzXljg1lY41IfDoUA&usqp=CAU" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
 
@@ -46,23 +97,7 @@ I'm full time developer. Please contact me at kindlyman343423@gmail.com
 [![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
 
  <br>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
