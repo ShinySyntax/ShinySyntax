@@ -24,52 +24,19 @@ Main Skills:
 - Tailwind CSS, Vuetify, SCSS
 - Stripe, AWS, Rest API, Microsoft Azure, CI/CD, ǪA Testing, GraphǪL, Docker, Git, Jira, Vercel, Netlify
 
-<div class="container" display="flex" flex-wrap="wrap">
-        		<div class="feature_inner row">
-        			<div class="col-lg-4 col-md-6">
+<div class="container" display="flex" >
         				<div class="feature_item">
         					<i class="flaticon-city"></i>
         					<img src="img/gallery/skype.png" style="height: 100px; width: 100px; margin-bottom: 20px;">
         					<h4><a href="" target="_blank"> Skype</a></h4>
         					<p>My Skype adress is live:.cid.baf0a296313e90c3. </p>
         				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-6">
-        				<div class="feature_item">
-        					<i class="flaticon-skyline"></i><img src="img/gallery/li.png" style="height: 100px; width: 100px; margin-bottom: 20px;">
-        					<h4> <a href="" target="_blank">LINKED-IN</a></h4>
-        					<p>My Linked-In profile with all my experiences and link to my resume.</p>
-        				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-6">
-        				<div class="feature_item">
-        					<i class="flaticon-sketch"></i><img src="img/gallery/mail.png" style="height: 100px; width: 100px; margin-bottom: 20px;">
-        					<h4><a href="" target="_blank">Mail</a></h4>
-        					<p>My Mail address is kindlyman343423@gmail.com</p>
-        				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-6">
-        				<div class="feature_item">
-        					<i class="flaticon-sketch"></i><img src="img/gallery/git.png" style="height: 100px; width: 100px; margin-bottom: 20px;">
-        					<h4><a href="https://github.com/kindlyman343423" target="_blank">GITHUB</a></h4>
-        					<p>An avid open-source contributor. Check my account to get full access to my open source projects.</p>
-        				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-6">
-        				<div class="feature_item">
-        					<i class="flaticon-sketch"></i><img src="img/gallery/quora.png" style="height: 100px; width: 100px; margin-bottom: 20px;">
-        					<h4><a href="" target="_blank">QUORA</a></h4>
-        					<p>Checks Quora in my free time. Check my profile to view my answers and questions I follow.</p>
-        				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-6">
+        	       
         				<div class="feature_item">
         					<i class="flaticon-sketch"></i><img src="img/gallery/stack.png" style="height: 100px; width: 100px; margin-bottom: 20px;">
         					<h4><a href="https://stackoverflow.com/users/22058735/kindlymam0128" target="_blank">STACKOVERFLOW</a></h4>
         					<p>Who doesn't need StackOverFlow in their life? Check here to see my contributions to the site.</p>
         				</div>
-        			</div>
-        		</div>
         	</div>
 
 <a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUTkOMMxAzpXYUG-r4lzXljg1lY41IfDoUA&usqp=CAU" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
