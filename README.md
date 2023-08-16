@@ -118,8 +118,8 @@ Main Skills:
 </div>
 
 </td></tr></table>  
-<div>
-  If you are interested for me, ping me.
-  my mail address:kindlyman343423@gmail.com
+<div align="center">
+  If you are interested for me, ping me.<br>
+  my mail address:kindlyman343423@gmail.com<br>
   my skype address: live:.cid.baf0a296313e90c3
 </div>
