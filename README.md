@@ -24,11 +24,7 @@ Main Skills:
 - Tailwind CSS, Vuetify, SCSS
 - Stripe, AWS, Rest API, Microsoft Azure, CI/CD, ǪA Testing, GraphǪL, Docker, Git, Jira, Vercel, Netlify
 
-<div class="container">
-        		<div class="main_title">
-        			<h2 style="margin-top: 100px;">FOLLOWING ARE THE LINK TO MY SOCIAL MEDIA ACCOUNTS AND HANDLES.</h2>
-        			<p>Click each name to visit the account.</p>
-        		</div>
+<div class="container" display="flex" flex-wrap="wrap">
         		<div class="feature_inner row">
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
