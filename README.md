@@ -7,7 +7,7 @@
 
 Thank you for your visiting my profile,
 If you need me, Anytime Ping Me!<br>
-mail kindlyman343423@gmail.com  skype live:.cid.baf0a296313e90c3
+mail kindlyman343423@gmail.com  skype live:.cid.95a01bc0735cc007
 
 
 
