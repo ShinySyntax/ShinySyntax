@@ -12,10 +12,9 @@ mail kindlyman343423@gmail.com  skype live:.cid.95a01bc0735cc007
 
 
 
-## full stack Senior Engineer, Blockchain Engineer, AI Engineer!
+## full stack Senior Engineer, AI Engineer!
 
 Main Skills:
--Blockchain, Solidity, Smart Contract
 - AI Bot, Open AI, Machine Learning, Embedding and Finetuning
 - ReactJS, Svelte, Angular, VueJS, NextJS, NuxtJS
 - NodeJS( Express/NestJS ), PHP, Django, Ruby on Rails, ASP.NET
