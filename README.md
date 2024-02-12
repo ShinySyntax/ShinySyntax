@@ -15,7 +15,6 @@ mail kindlyman343423@gmail.com  skype live:.cid.95a01bc0735cc007
 ## full stack Senior Engineer, AI Engineer!
 
 Main Skills:
-- AI Bot, Open AI, Machine Learning, Embedding and Finetuning
 - ReactJS, Svelte, Angular, VueJS, NextJS, NuxtJS
 - NodeJS( Express/NestJS ), PHP, Django, Ruby on Rails, ASP.NET
 - MySǪL, MongoDB, DynamoDB. PostgreSǪL
