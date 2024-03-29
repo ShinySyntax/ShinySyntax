@@ -8,10 +8,9 @@
 - Solidity, Rust, Ethereum, Solana, Smart Contracts
 - NodeJS( Express/NestJS ), Django
 - MySǪL, MongoDB, DynamoDB. PostgreSǪL
-- Flutter, React Native, C++, Object -C
 - Matrial UI, Metronic, MDB React, Bootstrap, AntD
 - Tailwind CSS, Vuetify, SCSS
-- Stripe, AWS, Rest API, Microsoft Azure, CI/CD, ǪA Testing, GraphǪL, Docker, Git, Jira, Vercel, Netlify
+- Stripe, AWS, Rest API, CI/CD, ǪA Testing, GraphǪL, Docker, Git, Jira, Vercel, Netlify
 
 
 
