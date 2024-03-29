@@ -30,11 +30,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/roychan0317/roychan0317/9e9b51e02fe60e4f7e20a1a8be7b689ab3e23b51/github-contribution-grid-snake.svg)
 
-## <img src="https://github.com/simamatin/simamatin/blob/main/icons8-github-30.png?raw=true" /> GitHub Profile Stats:
-<a href="https://github.com/kindlyman343423">
-<img src="https://github-readme-stats.vercel.app/api?username=simamatin&show_icons=true&theme=tokyonight" />
-</a>
-
 
 
 
