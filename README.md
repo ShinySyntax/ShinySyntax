@@ -4,8 +4,8 @@
 </div>
 
 ##Main Skills:
-- Solidity, Rust, Ethereum, Solana, Smart Contracts
 - ReactJS, VueJS, NextJS, NuxtJS
+- Solidity, Rust, Ethereum, Solana, Smart Contracts
 - NodeJS( Express/NestJS ), Django
 - MySǪL, MongoDB, DynamoDB. PostgreSǪL
 - Flutter, React Native, C++, Object -C
@@ -22,7 +22,7 @@
 - 🤔 I’m looking for help with L2 technologies.
 - 💬 Ping me about blockchain stuff.
 - 📙 Check out my resume.
-- 🎉 Fun Fact: I like cyberpunk and Lo-fi。
+- 🎉 Fun Fact: I like Watching TV and Reading。
 
 
 
