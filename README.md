@@ -7,10 +7,9 @@
 - ReactJS, VueJS, NextJS, NuxtJS
 - Solidity, Rust, Ethereum, Solana, Smart Contracts
 - NodeJS( Express/NestJS ), Django
-- MySǪL, MongoDB, DynamoDB. PostgreSǪL
-- Matrial UI, Metronic, MDB React, Bootstrap, AntD
+- MongoDB, DynamoDB. PostgreSǪL
 - Tailwind CSS, Vuetify, SCSS
-- Stripe, AWS, Rest API, CI/CD, ǪA Testing, GraphǪL, Docker, Git, Jira, Vercel, Netlify
+- Stripe, AWS, Rest API, CI/CD, GraphǪL, Docker, Git, Jira, Vercel
 
 
 
