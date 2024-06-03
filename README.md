@@ -5,11 +5,11 @@
 
 ##Main Skills:
 - ReactJS, VueJS, NextJS, NuxtJS
-- Solidity, Rust, Ethereum, Solana, Smart Contracts
-- NodeJS( Express/NestJS ), Django
-- MongoDB, DynamoDB. PostgreSǪL
+- Solidity, Rust(Tauri), Ethereum, Solana
+- NodeJS( Express/NestJS ), Golang, Python(Django)
+- MongoDB, DynamoDB, PostgreSql
 - Tailwind CSS, Vuetify, SCSS
-- Stripe, AWS, Rest API, CI/CD, GraphǪL, Docker, Git, Jira, Vercel
+- AWS, Rest API, CI/CD, GraphǪL, Docker, Supabase, Git, Jira, Vercel
 
 
 
