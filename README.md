@@ -14,8 +14,6 @@
 - AWS, Rest API, CI/CD, GraphǪL, Docker, Supabase, Git, Jira, Vercel
 
 
-
-
 ## ⚡️ A Few Quick Facts
 
 - 🧐 Always learning about blockchain, smart contracts, and web development.
@@ -24,9 +22,6 @@
 - 📙 Check out my resume.
 - 🎉 Fun Fact: I like Watching TV and Reading。
 
-
-
-![divider2](https://github.com/kindlyman343423/kindlyman343423/blob/main/assests/images/divider2.png)
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /> GitHub Stats
