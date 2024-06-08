@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20James%20Kano!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
 
 
-##Main Skills:
+![divider2](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider2.png)
+
+<h1>
+  <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/code.gif" width ="30"> Skills
+</h1>
 - ReactJS, VueJS, NextJS, NuxtJS
 - Solidity, Rust(Tauri), Ethereum, Solana
 - NodeJS( Express/NestJS ), Golang, Python(Django)
