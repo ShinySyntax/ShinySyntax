@@ -6,12 +6,12 @@
 <h1>
   <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/code.gif" width ="30"> Skills
 </h1>
-- ReactJS, VueJS, NextJS, NuxtJS
-- Solidity, Rust(Tauri), Ethereum, Solana
-- NodeJS( Express/NestJS ), Golang, Python(Django)
-- MongoDB, DynamoDB, PostgreSql
-- Tailwind CSS, Vuetify, SCSS
-- AWS, Rest API, CI/CD, GraphǪL, Docker, Supabase, Git, Jira, Vercel
+- ReactJS, VueJS, NextJS, NuxtJS </br>
+- Solidity, Rust(Tauri), Ethereum, Solana</br>
+- NodeJS( Express/NestJS ), Golang, Python(Django)</br>
+- MongoDB, DynamoDB, PostgreSql</br>
+- Tailwind CSS, Vuetify, SCSS</br>
+- AWS, Rest API, CI/CD, GraphǪL, Docker, Supabase, Git, Jira, Vercel</br>
 
 
 ## ⚡️ A Few Quick Facts
