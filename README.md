@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Fullstack+Blockchain+Engineer)](https://git.io/typing-svg)
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20James%20Kano!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
+
 
 ##Main Skills:
 - ReactJS, VueJS, NextJS, NuxtJS
