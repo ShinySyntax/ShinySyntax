@@ -37,7 +37,6 @@
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kindlyman343423&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" height='295' alt="activity graph"> -->
 </div>
 
-![divider1](https://github.com/kindlyman343423/kindlyman343423/blob/main/assests/images/divider1.png)
 
 <div align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&multiline=true&random=false&width=650&height=100&lines=Don't+forget+to+star+the+repositories+you+like;and+follow+me+for+more+updates." alt="Typing SVG" />
