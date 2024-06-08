@@ -24,8 +24,21 @@
 
 
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
+![divider2](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider2.png)
+
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /> GitHub Stats
+</h1>
+
+<div align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=kindlyman343423&theme=onestar&no-frame=true&column=4&row=2"  height='420' alt="@John's trophy stats"/>
+<!-- <div align='center'> -->
+<img align='left' height='190' alt='total' src="https://github-readme-stats.vercel.app/api?username=kindlyman343423&show_icons=true&theme=gotham" />
+  
+<img align='right' height='190' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindlyman343423&layout=compact&theme=gotham" />
+<!-- </div> -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kindlyman343423&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" height='295' alt="activity graph"> -->
+</div>
 
 ![Snake animation](https://raw.githubusercontent.com/roychan0317/roychan0317/9e9b51e02fe60e4f7e20a1a8be7b689ab3e23b51/github-contribution-grid-snake.svg)
 
