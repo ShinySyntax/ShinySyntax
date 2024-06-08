@@ -40,7 +40,24 @@
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kindlyman343423&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" height='295' alt="activity graph"> -->
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/roychan0317/roychan0317/9e9b51e02fe60e4f7e20a1a8be7b689ab3e23b51/github-contribution-grid-snake.svg)
+![divider1](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider1.png)
+
+<div align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&multiline=true&random=false&width=650&height=100&lines=Don't+forget+to+star+the+repositories+you+like;and+follow+me+for+more+updates." alt="Typing SVG" />
+</div>
+
+<div align='center'>
+  <a href='https://visitcount.itsvg.in' >
+    <img src='https://visitcount.itsvg.in/api?id=kentaurse&icon=5&color=6' height='40' />
+  </a>
+  <a href='https://github.com/kentaurse' >
+    <img src='https://img.shields.io/github/followers/kentaurse.svg?style=flat&logo=castro&label=Follow' height='40' />
+  </a>
+  <a href='https://github.com/kentaurse?tab=repositories' >
+    <img src='https://img.shields.io/github/stars/kentaurse.svg?style=flat&logo=starship&logoColor=yellow&label=Star' height='40' />
+  </a>
+</div>
+
 
 
 
