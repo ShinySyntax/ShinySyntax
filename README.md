@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20James%20Kano!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20James!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
 
 
 ![divider2](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider2.png)
