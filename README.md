@@ -38,9 +38,7 @@
 </div>
 
 
-<div align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&multiline=true&random=false&width=650&height=100&lines=Don't+forget+to+star+the+repositories+you+like;and+follow+me+for+more+updates." alt="Typing SVG" />
-</div>
+
 
 <div align='center'>
   <a href='https://visitcount.itsvg.in' >
