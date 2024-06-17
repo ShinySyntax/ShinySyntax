@@ -14,16 +14,29 @@
 - AWS, Rest API, CI/CD, GraphǪL, Docker, Supabase, Git, Jira, Vercel</br>
 
 
-## ⚡️ A Few Quick Facts
+# Favorite Saying 👍
 
-- 🧐 Always learning about blockchain, smart contracts, and web development.
-- 🤔 I’m looking for help with L2 technologies.
-- 💬 Ping me about blockchain stuff.
-- 📙 Check out my resume.
-- 🎉 Fun Fact: I like Watching TV and Reading。
+```rust
+/// Shiny's motto
+struct Steeve;
+
+impl Steeve {
+  /// Return Steeve Jobs quote
+  fn said(&self) -> &str {
+    "Quality is more important than quantity. \
+    One home run is much better than two doubles."
+  }
+}
+
+fn main() {
+  let steeve_jobs = BillGate;
+
+  println!("Steeve Jobs - {}", steeve_jobs.said());
+}
+```
 
 
-# GitHub Status ![](https://komarev.com/ghpvc/?username=xfactor-toml&color=blueviolet)
+# GitHub Status ![](https://komarev.com/ghpvc/?username=kindlyman343423&color=blueviolet)
 
 <div id='profile-them' align='center'>
   <a class='github-status' href='https://github.com/kindlyman343423'>
