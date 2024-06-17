@@ -23,34 +23,17 @@
 - 🎉 Fun Fact: I like Watching TV and Reading。
 
 
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="James" width="30" /> GitHub Stats
-</h1>
+# GitHub Status ![](https://komarev.com/ghpvc/?username=xfactor-toml&color=blueviolet)
 
-<div align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=kindlyman343423&theme=onestar&no-frame=true&column=4&row=2"  height='420' alt="@James's trophy stats"/>
-<!-- <div align='center'> -->
-<img align='left' height='190' alt='total' src="https://github-readme-stats.vercel.app/api?username=kindlyman343423&show_icons=true&theme=gotham" />
-  
-<img align='right' height='190' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindlyman343423&layout=compact&theme=gotham" />
-<!-- </div> -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kindlyman343423&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" height='295' alt="activity graph"> -->
-</div>
-
-</br>
-
-
-<div align='center'>
-  <a href='https://visitcount.itsvg.in' >
-    <img src='https://visitcount.itsvg.in/api?id=kindlyman343423&icon=5&color=6' height='40' />
+<div id='profile-them' align='center'>
+  <a class='github-status' href='https://github.com/kindlyman343423'>
+    <img height="180px" src='https://github-readme-stats.vercel.app/api?username=kindlyman343423&show_icons=true&theme=radical' />
   </a>
-  <a href='https://github.com/kindlyman343423' >
-    <img src='https://img.shields.io/github/followers/kindlyman343423.svg?style=flat&logo=castro&label=Follow' height='40' />
-  </a>
-  <a href='https://github.com/kindlyman343423?tab=repositories' >
-    <img src='https://img.shields.io/github/stars/kindlyman343423.svg?style=flat&logo=starship&logoColor=yellow&label=Star' height='40' />
+  <a class='Most-used-languages' href='https://github.com/kindlyman343423'>
+    <img height="180px" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kindlyman343423&layout=compact' />
   </a>
 </div>
+
 
 
 
