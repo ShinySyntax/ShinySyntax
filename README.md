@@ -1,18 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20James!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
-
-
-![divider2](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider2.png)
-
-<h1>
-  <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/code.gif" width ="30"> Skills
-</h1>
-- ReactJS, VueJS, NextJS, NuxtJS </br>
-- Solidity, Rust(Tauri), Ethereum, Solana</br>
-- NodeJS( Express/NestJS ), Golang, Python(Django)</br>
-- MongoDB, DynamoDB, PostgreSql</br>
-- Tailwind CSS, Vuetify, SCSS</br>
-- AWS, Rest API, CI/CD, GraphǪL, Docker, Supabase, Git, Jira, Vercel</br>
-
 
 # Favorite Saying 👍
 
@@ -34,7 +19,37 @@ fn main() {
   println!("Steeve Jobs - {}", steeve_jobs.said());
 }
 ```
-
+# Skills 
+<div align=''>
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Frameworks and Libraries</th>
+      <th>Databases</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p align="center">
+            <img height='132' alt='language' src="https://skillicons.dev/icons?i=js,ts,nodejs,solidity,cpp,cs,php,py,rust,ruby&perline=5" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img height='132' alt='framework' src="https://skillicons.dev/icons?i=nestjs,express,laravel,django,react,vue,nextjs,nuxtjs,redux,graphql&perline=5" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img height='132' alt='database' src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=2" />
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 # GitHub Status ![](https://komarev.com/ghpvc/?username=kindlyman343423&color=blueviolet)
 
