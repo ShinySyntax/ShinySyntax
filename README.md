@@ -14,7 +14,7 @@ impl Steeve {
 }
 
 fn main() {
-  let steeve_jobs = BillGate;
+  let steeve_jobs = Steeve;
 
   println!("Steeve Jobs - {}", steeve_jobs.said());
 }
