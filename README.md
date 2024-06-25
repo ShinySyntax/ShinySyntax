@@ -5,7 +5,7 @@
 /// Shiny's motto
 struct Steeve;
 
-impl Steeve {
+impl SteeveJobs {
   /// Return Steeve Jobs quote
   fn said(&self) -> &str {
     "Quality is more important than quantity. \
@@ -14,7 +14,7 @@ impl Steeve {
 }
 
 fn main() {
-  let steeve_jobs = Steeve;
+  let steeve_jobs = SteeveJobs;
 
   println!("Steeve Jobs - {}", steeve_jobs.said());
 }
