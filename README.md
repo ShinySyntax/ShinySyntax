@@ -51,14 +51,14 @@ fn main() {
 </table>
 </div>
 
-# GitHub Status ![](https://komarev.com/ghpvc/?username=kindlyman343423&color=blueviolet)
+# GitHub Status ![](https://komarev.com/ghpvc/?username=ShinySyntax&color=blueviolet)
 
 <div id='profile-them' align='center'>
-  <a class='github-status' href='https://github.com/kindlyman343423'>
-    <img height="180px" src='https://github-readme-stats.vercel.app/api?username=kindlyman343423&show_icons=true&theme=radical' />
+  <a class='github-status' href='https://github.com/ShinySyntax'>
+    <img height="180px" src='https://github-readme-stats.vercel.app/api?username=ShinySyntax&show_icons=true&theme=radical' />
   </a>
-  <a class='Most-used-languages' href='https://github.com/kindlyman343423'>
-    <img height="180px" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kindlyman343423&layout=compact' />
+  <a class='Most-used-languages' href='https://github.com/ShinySyntax'>
+    <img height="180px" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ShinySyntax&layout=compact' />
   </a>
 </div>
 
