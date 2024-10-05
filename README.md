@@ -62,6 +62,13 @@ fn main() {
   </a>
 </div>
 
+#### Connect with me
+<p align="left">
+<a href="https://twitter.com/shiny_940128" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="Shiny Twitter" height="22" width="25" /></a>
+<a href="https://t.me/shiny_dev" target="blank"><img align="center" src="https://seeklogo.com/images/T/telegram-new-2019-logo-060F2D4B81-seeklogo.com.png" alt="Shiny telegram: sasuke310" height="25" width="25" /></a>
+<a href="https://discord.gg/310780885400027139" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-logo-7A1EC3216C-seeklogo.com.png" alt="Shiny: discord #310780885400027139" height="25" width="25" /></a>
+</p>
+
 
 
 
