@@ -54,11 +54,11 @@ fn main() {
 # GitHub Status ![](https://komarev.com/ghpvc/?username=ShinySyntax&color=blueviolet)
 
 <div id='profile-them' align='center'>
-  <a class='github-status' href='https://github.com/Jermaine522'>
-    <img height="180px" src='https://github-readme-stats.vercel.app/api?username=Jermaine522&show_icons=true&theme=radical' />
+  <a class='github-status' href='https://github.com/Jermaines522'>
+    <img height="180px" src='https://github-readme-stats.vercel.app/api?username=Jermaines522&show_icons=true&theme=radical' />
   </a>
-  <a class='Most-used-languages' href='https://github.com/Jermaine522'>
-    <img height="180px" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Jermaine522&layout=compact' />
+  <a class='Most-used-languages' href='https://github.com/Jermaines522'>
+    <img height="180px" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Jermaines522&layout=compact' />
   </a>
 </div>
 
