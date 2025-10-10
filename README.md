@@ -2,7 +2,7 @@
 # Favorite Saying 👍
 
 ```rust
-/// Shiny's motto
+/// Jermiane's motto
 struct Steeve;
 
 impl SteeveJobs {
