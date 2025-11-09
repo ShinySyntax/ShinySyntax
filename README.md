@@ -32,6 +32,11 @@ fn main() {
   <tbody>
     <tr>
       <td>
+        <p align="center">j
+            <img height='132' alt='language' src="https://skillicons.dev/icons?i=solidity,rust,go,ethereum,solana&perline=5" />
+        </p>
+      </td>
+      <td>
         <p align="center">
             <img height='132' alt='language' src="https://skillicons.dev/icons?i=js,ts,nodejs,solidity,cpp,cs,php,py,rust,ruby&perline=5" />
         </p>
